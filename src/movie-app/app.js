@@ -1,5 +1,5 @@
 (function() {
     'use strict';
 
-    angular.module('movieApp', []);
+    angular.module('movieApp', ['ui.bootstrap']);
 })();
